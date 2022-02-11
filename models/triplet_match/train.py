@@ -3,6 +3,9 @@ import os
 import random
 import time
 import numpy as np
+import sys
+sys.path.append('/content/drive/MyDrive/DescribingTextureCopy/DescribingTextures')
+#sys.path.insert(0,'/content/drive/MyDrive/Colab Notebooks')
 # from tqdm import tqdm
 from distutils.dir_util import copy_tree
 
@@ -69,7 +72,7 @@ def train():
         word_emb = get_word_embed(word_encoder.word_list, cfg.INIT_WORD_EMBED)
         model.lang_embed.embeds.weight.data.copy_(torch.from_numpy(word_emb))
     if len(cfg.LOAD_WEIGHTS) > 0:
-        model.load_state_dict(torch.load(cfg.LOAD_WEIGHTS))
+        model.load_state_dict(torch.load(cfg.LOAD_WEIGHTS),strict=False)
 
     model.train()
     device = torch.device(cfg.DEVICE)
