@@ -5,9 +5,9 @@ C.DEVICE = 'cuda'
 C.RAND_SEED = 2020
 C.OUTPUT_PATH = 'output/triplet_match/temp'
 C.TRAIN_SPLIT = 'train'
-C.EVAL_SPLIT = 'val'
+C.EVAL_SPLIT = 'train'
 
-C.LOAD_WEIGHTS = ''
+C.LOAD_WEIGHTS = '../../DomainToText_AMLProject/outputs/triplet_match/BEST_checkpoint.pth'
 C.INIT_WORD_EMBED = 'fast_text'  # rand / fast_text
 C.LANG_INPUT = 'phrase'  # description
 
@@ -15,7 +15,7 @@ C.LANG_INPUT = 'phrase'  # description
 C.MODEL = CN()
 C.MODEL.VEC_DIM = 256
 C.MODEL.IMG_FEATS = (2, 4)
-C.MODEL.LANG_ENCODER = 'mean'
+C.MODEL.LANG_ENCODER = 'bert'
 C.MODEL.DISTANCE = 'l2_s'  # l2, cos
 
 # config for loss
