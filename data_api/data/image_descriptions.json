@@ -3497,6 +3497,426 @@
         ]
       },
       {
+        "image_name": "cartoon/horse/pic_166.jpg",
+        "category": "cartoon",
+        "description": [
+            "low-level",
+            "definite",
+            "vivid colors",
+            "colorful",
+            "white",
+            "yes",
+            "no",
+            "no",
+            "no, unrealistic"
+        ]
+      },
+      {
+        "image_name": "cartoon/dog/pic_224.jpg",
+        "category": "cartoon",
+        "description": [
+            "low-level",
+            "definite",
+            "vivid colors",
+            "colorful",
+            "white",
+            "yes",
+            "no",
+            "no",
+            "no, unrealistic"
+        ]
+      }  ,
+      {
+        "image_name": "cartoon/person/pic_104.jpg",
+        "category": "cartoon",
+        "description": [
+            "low-level",
+            "definite",
+            "vivid colors",
+            "colorful",
+            "blue and violet",
+            "yes",
+            "no",
+            "no",
+            "no, unrealistic"
+        ]
+      }  ,
+      {
+        "image_name": "cartoon/elephant/pic_336.jpg",
+        "category": "cartoon",
+        "description": [
+            "low-level",
+            "definite",
+            "low",
+            "gray with black border",
+            "white",
+            "yes",
+            "no",
+            "no",
+            "no, unrealistic"
+        ]
+      }  ,
+      {
+        "image_name": "cartoon/person/pic_402.jpg",
+        "category": "cartoon",
+        "description": [
+            "low-level",
+            "definite",
+            "vivid colors",
+            "colorful",
+            "blue and white",
+            "yes",
+            "no",
+            "no",
+            "no, unrealistic"
+        ]
+      }  ,
+      {
+        "image_name": "cartoon/house/pic_303.jpg",
+        "category": "cartoon",
+        "description": [
+            "low-level",
+            "definite",
+            "vivid colors",
+            "colorful",
+            "white",
+            "yes",
+            "no",
+            "no",
+            "no, unrealistic"
+        ]
+      }  ,
+      {
+        "image_name": "cartoon/dog/pic_425.jpg",
+        "category": "cartoon",
+        "description": [
+            "low-level",
+            "definite",
+            "vivid colors",
+            "mustard",
+            "white",
+            "yes",
+            "no",
+            "no",
+            "no, unrealistic"
+        ]
+      }  ,
+      {
+        "image_name": "cartoon/person/pic_158.jpg",
+        "category": "cartoon",
+        "description": [
+            "low-level",
+            "definite",
+            "low",
+            "offwhite",
+            "white",
+            "yes",
+            "no",
+            "no",
+            "no, unrealistic"
+        ]
+      }  ,
+      {
+        "image_name": "cartoon/guitar/pic_123.jpg",
+        "category": "cartoon",
+        "description": [
+            "low-level",
+            "definite",
+            "mid",
+            "red and gray",
+            "white",
+            "yes",
+            "no",
+            "no",
+            "no, unrealistic"
+        ]
+      }  ,
+      {
+        "image_name": "cartoon/elephant/pic_474.jpg",
+        "category": "cartoon",
+        "description": [
+            "low-level",
+            "definite",
+            "low",
+            "grayscale",
+            "white",
+            "yes",
+            "no",
+            "no",
+            "no, unrealistic"
+        ]
+      }  ,
+      {
+        "image_name": "cartoon/house/pic_349.jpg",
+        "category": "cartoon",
+        "description": [
+            "low-level",
+            "definite",
+            "vivid colors",
+            "colorful",
+            "colorful",
+            "no, 2",
+            "no",
+            "no",
+            "no, unrealistic"
+        ]
+      }  ,
+      {
+        "image_name": "cartoon/giraffe/pic_335.jpg",
+        "category": "cartoon",
+        "description": [
+            "low-level",
+            "definite",
+            "vivid colors",
+            "colorful",
+            "white",
+            "yes",
+            "no",
+            "no",
+            "no, unrealistic"
+        ]
+      }  ,
+      {
+        "image_name": "cartoon/giraffe/pic_036.jpg",
+        "category": "cartoon",
+        "description": [
+            "low-level",
+            "definite",
+            "vivid colors",
+            "colorful",
+            "white",
+            "yes",
+            "yes",
+            "no",
+            "no, unrealistic"
+        ]
+      }  ,
+      {
+        "image_name": "cartoon/dog/pic_180.jpg",
+        "category": "cartoon",
+        "description": [
+            "low-level",
+            "definite",
+            "vivid colors",
+            "red",
+            "white",
+            "yes",
+            "yes",
+            "no",
+            "no, unrealistic"
+        ]
+      }  ,
+      {
+        "image_name": "cartoon/elephant/pic_005.jpg",
+        "category": "cartoon",
+        "description": [
+            "low-level",
+            "definite",
+            "vivid colors",
+            "gray",
+            "white",
+            "yes",
+            "no",
+            "no",
+            "no, unrealistic"
+        ]
+      }  ,
+      {
+        "image_name": "cartoon/giraffe/pic_037.jpg",
+        "category": "cartoon",
+        "description": [
+            "low-level",
+            "definite",
+            "vivid colors",
+            "colorful",
+            "white",
+            "yes",
+            "yes",
+            "no",
+            "no, unrealistic"
+        ]
+      }  ,
+      {
+        "image_name": "cartoon/horse/pic_357.jpg",
+        "category": "cartoon",
+        "description": [
+            "low-level",
+            "definite",
+            "vivid colors",
+            "colorful",
+            "white",
+            "yes",
+            "yes",
+            "no",
+            "no, unrealistic"
+        ]
+      }  ,
+      {
+        "image_name": "cartoon/horse/pic_125.jpg",
+        "category": "cartoon",
+        "description": [
+            "low-level",
+            "definite",
+            "vivid colors",
+            "colorful",
+            "white",
+            "yes",
+            "no",
+            "no",
+            "no, unrealistic"
+        ]
+      }  ,
+      {
+        "image_name": "cartoon/guitar/pic_117.jpg",
+        "category": "cartoon",
+        "description": [
+            "low-level",
+            "definite",
+            "vivid colors",
+            "brown and black",
+            "white",
+            "yes",
+            "no",
+            "no",
+            "no, unrealistic"
+        ]
+      }  ,
+      {
+        "image_name": "cartoon/person/pic_320.jpg",
+        "category": "cartoon",
+        "description": [
+            "low-level",
+            "definite",
+            "vivid colors",
+            "colorful",
+            "white",
+            "yes",
+            "no",
+            "no",
+            "no, unrealistic"
+        ]
+      }  ,
+      {
+        "image_name": "cartoon/guitar/pic_149.jpg",
+        "category": "cartoon",
+        "description": [
+            "low-level",
+            "definite",
+            "vivid colors",
+            "colorful",
+            "white",
+            "no, 2",
+            "no",
+            "no",
+            "no, unrealistic"
+        ]
+      }  ,
+      {
+        "image_name": "cartoon/person/pic_409.jpg",
+        "category": "cartoon",
+        "description": [
+            "low-level",
+            "definite",
+            "vivid colors",
+            "colorful",
+            "colorful",
+            "no, 6",
+            "no",
+            "no",
+            "no, unrealistic"
+        ]
+      }  ,
+      {
+        "image_name": "cartoon/horse/pic_119.jpg",
+        "category": "cartoon",
+        "description": [
+            "low-level",
+            "definite",
+            "vivid colors",
+            "light purple",
+            "white",
+            "yes",
+            "no",
+            "no",
+            "no, unrealistic"
+        ]
+      }  ,
+      {
+        "image_name": "cartoon/elephant/pic_188.jpg",
+        "category": "cartoon",
+        "description": [
+            "low-level",
+            "definite",
+            "vivid colors",
+            "colorful",
+            "white",
+            "yes",
+            "no",
+            "no",
+            "no, unrealistic"
+        ]
+      }  ,
+      {
+        "image_name": "cartoon/house/pic_191.jpg",
+        "category": "cartoon",
+        "description": [
+            "low-level",
+            "definite",
+            "vivid colors",
+            "red, white and green",
+            "white",
+            "yes",
+            "no",
+            "no",
+            "no, unrealistic"
+        ]
+      }  ,
+      {
+        "image_name": "cartoon/elephant/pic_198.jpg",
+        "category": "cartoon",
+        "description": [
+            "low-level",
+            "definite",
+            "mid",
+            "colorful",
+            "purple",
+            "yes",
+            "no",
+            "no",
+            "no, unrealistic"
+        ]
+      }  ,
+      {
+        "image_name": "cartoon/giraffe/pic_237.jpg",
+        "category": "cartoon",
+        "description": [
+            "low-level",
+            "definite",
+            "vivid colors",
+            "yellow and brownl",
+            "white",
+            "yes",
+            "no",
+            "no",
+            "no, unrealistic"
+        ]
+      }  ,
+      {
+        "image_name": "cartoon/dog/pic_244.jpg",
+        "category": "cartoon",
+        "description": [
+            "low-level",
+            "definite",
+            "mid",
+            "brown",
+            "white",
+            "yes",
+            "no",
+            "no",
+            "no, unrealistic"
+        ]
+      },
+      {
         "image_name":"photo/person/253_0426.jpg",
         "category":"photo",
         "descriptions":[
@@ -5327,7 +5747,6 @@
       
           ]
        },
-      
        {
       
        "image_name":"photo/dog/n02103406_1011.jpg",
@@ -5346,6 +5765,573 @@
       
           ]
        },
+       {
+        "image_name":"photo/person/253_0051.jpg",
+         "category":"photo",
+         "descriptions":[
+             "mid-level",
+             "precise",
+             "mid",
+             "yes , colorful",
+             "colorful",
+             "yes",
+             "no",
+             "yes , photo",
+             "yes, realistic"
+       
+       
+           ]
+        },
+       
+        {
+       
+        "image_name":"photo/person/253_0021.jpg",
+         "category":"photo",
+         "descriptions":[
+             "mid-level",
+             "precise",
+             "mid",
+             "yes , colorful",
+             "colorful",
+             "yes",
+             "no",
+             "no",
+             "yes, realistic"
+       
+       
+           ]
+        },
+       
+        {
+       
+        "image_name":"photo/elephant/n02503517_9270.jpg",
+         "category":"photo",
+         "descriptions":[
+             "mid-level",
+             "precise",
+             "mid",
+             "yes , gay",
+             "blue and green",
+             "yes",
+             "no",
+             "no",
+             "yes, realistic"
+       
+       
+           ]
+        },
+       
+        {
+       
+        "image_name":"photo/person/253_0231.jpg",
+         "category":"photo",
+         "descriptions":[
+             "mid-level",
+             "precise",
+             "mid",
+             "yes , colorful",
+             "green",
+             "yes",
+             "no",
+             "no",
+             "yes, realistic"
+       
+       
+           ]
+        },
+       
+        {
+       
+        "image_name":"photo/horse/105_0047.jpg",
+         "category":"photo",
+         "descriptions":[
+             "mid-level",
+             "precise",
+             "mid",
+             "yes , brown",
+             "brown",
+             "yes",
+             "no",
+             "no",
+             "yes, realistic"
+       
+       
+           ]
+        },
+       
+        {
+       
+        "image_name":"photo/person/253_0007.jpg",
+         "category":"photo",
+         "descriptions":[
+             "mid-level",
+             "precise",
+             "mid",
+             "yes , colorful",
+             "colorful",
+             "yes",
+             "no",
+             "no",
+             "yes, realistic"
+       
+       
+           ]
+        },
+       
+        {
+       
+        "image_name":"photo/elephant/064_0005.jpg",
+         "category":"photo",
+         "descriptions":[
+             "mid-level",
+             "precise",
+             "grayscale",
+             "yes , grayscale",
+             "white",
+             "yes",
+             "no",
+             "no",
+             "yes, realistic"
+       
+       
+           ]
+        },
+       
+        {
+       
+        "image_name":"photo/person/253_0273.jpg",
+         "category":"photo",
+         "descriptions":[
+             "mid-level",
+             "precise",
+             "mid",
+             "yes , colorful",
+             "colorful",
+             "yes",
+             "no",
+             "no",
+             "yes, realistic"
+       
+       
+           ]
+        },
+       
+        {
+       
+        "image_name":"photo/person/253_0433.jpg",
+         "category":"photo",
+         "descriptions":[
+             "mid-level",
+             "precise",
+             "mid",
+             "yes , colorful",
+             "green",
+             "yes",
+             "no",
+             "no",
+             "yes, realistic"
+       
+       
+           ]
+        },
+       
+        {
+       
+        "image_name":"photo/house/pic_210.jpg",
+         "category":"photo",
+         "descriptions":[
+             "mid-level",
+             "precise",
+             "mid",
+             "yes, colorful",
+             "blue",
+             "yes",
+             "no",
+             "no",
+             "yes, realistic"
+       
+       
+           ]
+        },
+       
+        {
+       
+        "image_name":"photo/person/253_0098.jpg",
+         "category":"photo",
+         "descriptions":[
+             "mid-level",
+             "precise",
+             "mid",
+             "yes , colorful",
+             "off white",
+             "yes",
+             "no",
+             "no",
+             "yes, realistic"
+       
+       
+           ]
+        },
+       
+        {
+       
+        "image_name":"photo/person/253_0367.jpg",
+         "category":"photo",
+         "descriptions":[
+             "mid-level",
+             "precise",
+             "mid",
+             "yes , colorful",
+             "green",
+             "yes",
+             "no",
+             "no",
+             "yes, realistic"
+       
+       
+           ]
+        },
+       
+        {
+       
+        "image_name":"photo/giraffe/084_0011.jpg",
+         "category":"photo",
+         "descriptions":[
+             "mid-level",
+             "precise",
+             "vived color",
+             "yes , colorful",
+             "green",
+             "yes",
+             "no",
+             "no",
+             "yes, realistic"
+       
+       
+           ]
+        },
+       
+        {
+       
+        "image_name":"photo/guitar/063_0111.jpg",
+         "category":"photo",
+         "descriptions":[
+             "mid-level",
+             "shallow",
+             "mid",
+             "yes , blue and black",
+             "colorful",
+             "yes",
+             "no",
+             "no",
+             "yes, realistic"
+       
+       
+           ]
+        },
+       
+        {
+       
+        "image_name":"photo/horse/n02374451_6192.jpg",
+         "category":"photo",
+         "descriptions":[
+             "mid-level",
+             "precise",
+             "mid",
+             "yes , black",
+             "green and blue",
+             "yes",
+             "no",
+             "no",
+             "yes, realistic"
+       
+       
+           ]
+        },
+       
+        {
+       
+        "image_name":"photo/person/253_0283.jpg",
+         "category":"photo",
+         "descriptions":[
+             "mid-level",
+             "precise",
+             "mid",
+             "yes , colorful",
+             "off white",
+             "yes",
+             "no",
+             "no",
+             "yes, realistic"
+       
+       
+           ]
+        },
+       
+        {
+       
+        "image_name":"photo/dog/n02103406_2209.jpg",
+         "category":"photo",
+         "descriptions":[
+             "mid-level",
+             "precise",
+             "mid",
+             "yes , black and white",
+             "brown",
+             "yes",
+             "no",
+             "no",
+             "yes, realistic"
+       
+       
+           ]
+        },
+       
+        {
+       
+        "image_name":"photo/person/253_0143.jpg",
+         "category":"photo",
+         "descriptions":[
+             "mid-level",
+             "precise",
+             "mid",
+             "yes , colorful",
+             "white and brown",
+             "yes",
+             "no",
+             "no",
+             "yes, realistic"
+       
+       
+           ]
+        },
+       
+        {
+       
+        "image_name":"photo/guitar/n02676566_7385.jpg",
+         "category":"photo",
+         "descriptions":[
+             "mid-level",
+             "precise",
+             "mid",
+             "yes , colorful",
+             "black",
+             "yes",
+             "no",
+             "no",
+             "yes, realistic"
+       
+       
+           ]
+        },
+       
+        {
+       
+        "image_name":"photo/guitar/063_0103.jpg",
+         "category":"photo",
+         "descriptions":[
+             "mid-level",
+             "precise",
+             "mid",
+             "yes , colorful",
+             "cream",
+             "yes",
+             "no",
+             "yes , photo",
+             "no, unrealistic"
+       
+       
+           ]
+        },
+       
+        {
+       
+        "image_name":"photo/dog/n02109525_5583.jpg",
+         "category":"photo",
+         "descriptions":[
+             "mid-level",
+             "precise",
+             "mid",
+             "yes , colorful",
+             "colorful",
+             "yes",
+             "no",
+             "yes , photo",
+             "yes, realistic"
+       
+       
+           ]
+        },
+       
+        {
+       
+        "image_name":"photo/dog/056_0051.jpg",
+         "category":"photo",
+         "descriptions":[
+             "mid-level",
+             "precise",
+             "mid",
+             "yes , gray",
+             "colorful",
+             "yes",
+             "no",
+             "yes , photo",
+             "yes, realistic"
+       
+       
+           ]
+        },
+       
+        {
+       
+        "image_name":"photo/house/pic_226.jpg",
+         "category":"photo",
+         "descriptions":[
+             "mid-level",
+             "precise",
+             "mid",
+             "yes , colorful",
+             "colorful",
+             "yes",
+             "no",
+             "no",
+             "yes, realistic"
+       
+       
+           ]
+        },
+       
+        {
+       
+        "image_name":"photo/person/253_0354.jpg",
+         "category":"photo",
+         "descriptions":[
+             "mid-level",
+             "precise",
+             "mid",
+             "yes , colorful",
+             "colorful",
+             "yes",
+             "no",
+             "no",
+             "yes, realistic"
+       
+       
+           ]
+        },
+       
+        {
+       
+        "image_name":"photo/elephant/n02503517_8292.jpg",
+         "category":"photo",
+         "descriptions":[
+             "mid-level",
+             "precise",
+             "mid",
+             "yes , gray",
+             "green and blue",
+             "yes",
+             "no",
+             "no",
+             "yes, realistic"
+       
+       
+           ]
+        },
+       
+        {
+       
+        "image_name":"photo/house/pic_192.jpg",
+         "category":"photo",
+         "descriptions":[
+             "mid-level",
+             "precise",
+             "mid",
+             "yes , colorful",
+             "colorful",
+             "yes",
+             "no",
+             "no",
+             "yes, realistic"
+       
+       
+           ]
+        },
+        {
+         "image_name":"photo/horse/105_0050.jpg",
+         "category":"photo",
+         "descriptions":[
+             "low",
+             "precise",
+             "low",
+             "yes , black",
+             "green and blue",
+             "yes",
+             "no",
+             "no",
+             "yes, realistic"
+       
+       
+           ]
+        },
+       
+        {
+       
+        "image_name":"photo/guitar/063_0113.jpg",
+         "category":"photo",
+         "descriptions":[
+             "mid-level",
+             "precise",
+             "vivid colors",
+             "yes , colorful",
+             "colorful",
+             "yes",
+             "no",
+             "no",
+             "yes, realistic"
+       
+       
+           ]
+        },
+       
+        {
+       
+        "image_name":"photo/house/pic_266.jpg",
+         "category":"photo",
+         "descriptions":[
+             "mid-level",
+             "precise",
+             "low",
+             "yes , white",
+             "green and white",
+             "yes",
+             "no",
+             "no",
+             "yes, realistic"
+       
+       
+           ]
+        },
+       
+        {
+       
+        "image_name":"photo/dog/n02103406_2706.jpg",
+         "category":"photo",
+         "descriptions":[
+             "mid-level",
+             "precise",
+             "mid",
+             "yes , black and white",
+             "blue",
+             "yes",
+             "no",
+             "no",
+             "yes, realistic"
+       
+       
+           ]
+        },
+
        {
         "image_name":"sketch/person/12235.png",
         "category":"sketch",
